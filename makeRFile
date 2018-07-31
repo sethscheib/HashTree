@@ -1,0 +1,2 @@
+r=$RANDOM
+echo "file$r" > newfile$r.txt
