@@ -59,18 +59,6 @@ int main()
 
     printf("%s\n", currSHA);
 
-    /*
-    for(i=0; i<NUM_NODES; i++)
-    {
-        strcpy(temp, data[i]);
-        strcat(allData, temp);
-        //printf("Stored: %s\n", data[i]);
-    }
-    printf("%s\n", getSHA(allData));
-
-    //SHA GEN WORKING
-
-    */
     return 0;
 }
 
