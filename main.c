@@ -78,6 +78,4 @@ char *getSHA(unsigned char *data)
     }
 
     return buf;
-
-    return 0;
 }
